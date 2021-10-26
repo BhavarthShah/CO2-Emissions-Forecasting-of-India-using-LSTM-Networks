@@ -1,4 +1,4 @@
-# CO2-Emissions-Forecasting-for-India
+# CO2-Emissions-Forecasting-of-India-using-LSTM-Networks
 
 
 ### Purpose
