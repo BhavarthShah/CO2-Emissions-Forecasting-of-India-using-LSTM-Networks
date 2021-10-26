@@ -1,4 +1,4 @@
-# CO2-Emissions-Prediction-for-India
+# CO2-Emissions-Forecasting-for-India
 
 
 ### Purpose
