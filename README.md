@@ -6,3 +6,6 @@ The use of this open-source code is _free_ for any academic purpose with appropr
 # References:
 1. Jena, P. R., Managi, S., & Majhi, B. (2021). Forecasting the CO2 emissions at the global level: A multilayer artificial neural network modelling. Energies. https://doi.org/10.3390/en14196336
 
+2. Dong, K., Sun, R., Jiang, H., & Zeng, X. (2018). CO2 emissions, economic growth, and the environmental Kuznets curve in China: What roles can nuclear energy and renewable energy play? Journal of Cleaner Production. https://doi.org/10.1016/j.jclepro.2018.05.271
+
+3. 
