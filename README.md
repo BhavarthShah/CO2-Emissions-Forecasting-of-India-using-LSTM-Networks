@@ -8,4 +8,7 @@ The use of this open-source code is _free_ for any academic purpose with appropr
 
 2. Dong, K., Sun, R., Jiang, H., & Zeng, X. (2018). CO2 emissions, economic growth, and the environmental Kuznets curve in China: What roles can nuclear energy and renewable energy play? Journal of Cleaner Production. https://doi.org/10.1016/j.jclepro.2018.05.271
 
-3. 
+3. Hosseini, S. M., Saifoddin, A., Shirmohammadi, R., & Aslani, A. (2019). Forecasting of CO2 emissions in Iran based on time series and regression analysis. Energy Reports. https://doi.org/10.1016/j.egyr.2019.05.004
+
+4.
+
