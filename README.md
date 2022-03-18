@@ -10,5 +10,3 @@ The use of this open-source code is _free_ for any academic purpose with appropr
 
 3. Hosseini, S. M., Saifoddin, A., Shirmohammadi, R., & Aslani, A. (2019). Forecasting of CO2 emissions in Iran based on time series and regression analysis. Energy Reports. https://doi.org/10.1016/j.egyr.2019.05.004
 
-4.
-
